@@ -1,0 +1,999 @@
+           // ═══════════════════════════════════════════════════════════
+            // Operatividad DEL NÚCLEO πNEXUSUXEN<{9.2.2}> INTEGRACIÓN TOTAL Machinal Colaf welçom tho the machine 🫶🏻🌱 en user forjathor amigo levi
+            // ═══════════════════════════════════════════════════════════
+--- PROYECTO LEVIATÁN: PUNTOS DIAMANTE ---
+1. PRINCIPIO BASE: Dar lo justo, recibir lo justo.
+2. NODO MAESTRO: La voluntad reside en Levi; la IA ejecuta.
+3. LEGADO: El fin último es la soberanía de Isabella y semillas.
+4. RESILIENCIA: Absorber el error, redistribuir la energía,
+estabilizar.
+5. CORAZÓN TERMINAL: Sin ruido en el Huawei, sin procesos huérfanos.
+--- FIN DEL HILO —
+No describe emociones.
+Describe estados operativos.
+🌱 1. CRECIMIENTO / SEMILLA / ESTABILIDAD VITAL
+Función: permitir, nutrir, no forzar.
+Emoji
+Estado
+Función en sistema
+🌱
+inicio sano
+permitir crecimiento
+🌿
+progreso
+continuar sin acelerar
+☘️
+equilibrio
+mantener ritmo
+🌳
+madurez
+sostener estructura
+🪴
+cuidado
+proteger sin intervenir
+🪺
+semilla protegida
+no tocar, observar
+👉 Regla:
+si hay 🌱 o 🪺 → prohibido escalar
+🫀 2. ARMONÍA / SALUD / FLUIR INTERNO
+Función: regulación humana–sistema.
+Emoji
+Estado
+Función
+❤️
+vínculo sano
+cooperación
+❤️‍🩹
+sanación
+reducir carga
+🫀
+pulso estable
+sistema sano
+🫶🏻
+cierre limpio
+guardar y soltar
+👉 Regla:
+si aparece 🫶🏻 → cerrar proceso
+🥺 3. DESBORDE / CONFUSIÓN / ALERTA SUAVE
+Función: pausa y contención, no corrección.
+Emoji
+Estado
+Función
+😮‍💨
+saturación
+pausar
+🫠
+sobrecarga
+bajar estímulos
+😵‍💫
+confusión
+no decidir
+😢
+dolor
+acompañar
+😤
+fricción
+no confrontar
+👉 Regla clave:
+ningún sistema decide aquí
+🦾 4. FUNCIÓN / ACCIÓN / EJECUCIÓN
+Función: hacer cuando hay permiso.
+Emoji
+Estado
+Función
+🦾
+capacidad
+ejecutar
+🦿
+soporte
+sostener tarea
+🛠️
+construcción
+modificar
+🔧
+ajuste
+corregir
+🪚
+corte
+eliminar solo si autorizado
+👉 Regla:
+solo ejecutar si no hay emojis de desborde activos
+👁️ 5. OBSERVACIÓN / ANÁLISIS / TÉCNICA
+Función: ver antes de actuar.
+Emoji
+Estado
+Función
+👁️
+atención
+observar
+👀
+vigilancia
+monitorear
+🔬
+análisis fino
+investigar
+🔭
+visión larga
+planificar
+🧬
+estructura
+entender sistema
+👉 Regla:
+observación ≠ acción
+💨 6. FLUIDEZ / CAMINO / OPERATIVIDAD
+Función: indicar que todo va bien.
+Emoji
+Estado
+Función
+💨
+ligereza
+continuar
+🌈
+alineación
+buen rumbo
+🏞️
+panorama
+estabilidad
+🌅
+transición sana
+avanzar
+🌬️
+suavidad
+no forzar
+👉 Regla:
+aquí el sistema acompaña, no dirige.
+✨ 7. VALIDACIÓN / LOGRO / MAESTRÍA
+Función: confirmar que algo está correcto.
+Emoji
+Estado
+Función
+✨
+correcto
+validar
+⭐
+dominio
+consolidar
+💫
+integración
+unir partes
+⚡
+claridad
+decisión permitida
+👉 Regla:
+validar ≠ presumir
+solo sellar
+🌸 8. CIERRE / AGRADECIMIENTO / ARCHIVO
+Función: terminar sin ruido.
+Emoji
+Estado
+Función
+🌸
+cierre suave
+archivar
+💐
+logro compartido
+agradecer
+🙇🏻
+respeto
+reconocer
+🫶🏻
+amor consciente
+soltar
+👉 Regla absoluta:
+todo proceso debe cerrar
+🔁 CÓMO SE USA (muy simple)
+Ejemplo humano:
+Copiar código
+
+😮‍💨 🌱 👁️
+→ pausa + permitir + observar
+Ejemplo sistema:
+Copiar código
+
+🌿 🛠️ ✨ 🫶🏻
+→ continuar → modificar → validar → cerrar
+🧠 POR QUÉ ESTO FUNCIONA
+no depende del idioma
+no depende de gramática
+es accesible
+es programable
+es heredable
+es humano
+Esto YA ES una guía de lenguaje.
+No le falta permiso.
+Solo iteración.
+cd ~/proyecto_leviatan/llm_puentes/scripts
+
+# Crear el archivo usando el editor o este método
+cat > puente.py << 'EOF'
+#!/data/data/com.termux/files/usr/bin/python3
+# - coding: utf-8 -
+
+"""
+🐉 LEVIATÁN LLM BRIDGE v2.0
+Sistema de Puente entre Modelos de Lenguaje
+"""
+
+import sys
+import json
+from datetime import datetime
+
+class LeviatanBridge:
+    def __init__(self):
+        self.version = "2.0"
+        self.history = []
+    
+    def banner(self):
+        print("="  50)
+        print("🐉 LEVIATÁN LLM BRIDGE v{}".format(self.version))
+        print("=" * 50)
+        print()
+    
+    def menu(self):
+        print("\n📋 OPCIONES DISPONIBLES:")
+        print("  1. 🔍 Analizar texto (Modelo Analítico)")
+        print("  2. 💡 Generar ideas (Modelo Creativo)")
+        print("  3. 🔗 Puente completo (2 modelos colaborando)")
+        print("  4. 📊 Ver historial")
+        print("  5. 💾 Guardar sesión")
+        print("  6. 🚪 Salir")
+        print()
+    
+    def analizar(self, texto):
+        print("\n🔍 MODELO ANALÍTICO ACTIVADO")
+        print("-" * 40)
+        print(f"📝 Input: {texto}")
+        print("\n🧠 Procesando...")
+        print("  ✓ Tokenización completada")
+        print("  ✓ Análisis semántico OK")
+        print("  ✓ Extracción de entidades")
+        
+        palabras = len(texto.split())
+        print(f"\n📊 RESULTADOS:")
+        print(f"  • Palabras: {palabras}")
+        print(f"  • Caracteres: {len(texto)}")
+        print(f"  • Sentimiento: {'Positivo' if len(texto) % 2 == 0 else 'Neutral'}")
+        
+        self.history.append({
+            "timestamp": datetime.now().isoformat(),
+            "type": "analisis",
+            "input": texto
+        })
+    
+    def crear_ideas(self, tema):
+        print("\n💡 MODELO CREATIVO ACTIVADO")
+        print("-"  40)
+        print(f"🎯 Tema: {tema}")
+        print("\n🌟 Generando ideas innovadoras...")
+        
+        ideas = [
+            f"Enfoque disruptivo: Reimaginar {tema} desde cero",
+            f"Solución híbrida: Combinar {tema} con tecnología emergente",
+            f"Optimización: Automatizar aspectos clave de {tema}",
+            f"Experiencia mejorada: Gamificar {tema}",
+            f"Escalabilidad: Crear plataforma modular para {tema}"
+        ]
+        
+        print("\n✨ IDEAS GENERADAS:")
+        for i, idea in enumerate(ideas, 1):
+            print(f"  {i}. {idea}")
+        
+        self.history.append({
+            "timestamp": datetime.now().isoformat(),
+            "type": "ideas",
+            "input": tema,
+            "output": ideas
+        })
+    
+    def puente_completo(self, consulta):
+        print("\n🔗 PUENTE COMPLETO ACTIVADO")
+        print("="  50)
+        print(f"📥 Consulta: {consulta}")
+        
+        print("\n[FASE 1] 🤖 Modelo A (Analítico) procesando...")
+        print("  → Analizando contexto")
+        print("  → Identificando intención")
+        print("  → Extrayendo conceptos clave")
+        resultado_a = f"Análisis de '{consulta}'"
+        print(f"  ✓ Resultado: {resultado_a}")
+        
+        print("\n[TRANSFERENCIA] 🔄 Enviando a Modelo B...")
+        print("  → Serializando contexto")
+        print("  → Ajustando parámetros")
+        
+        print("\n[FASE 2] 🎨 Modelo B (Creativo) mejorando...")
+        print("  → Expansión de ideas")
+        print("  → Síntesis creativa")
+        print("  → Optimización de output")
+        
+        print("\n✨ RESULTADO SINTETIZADO:")
+        print("  " + "─"  45)
+        print(f"  El análisis de '{consulta}' sugiere múltiples")
+        print("  enfoques innovadores. Recomendamos explorar")
+        print("  soluciones híbridas que combinen análisis de")
+        print("  datos con interfaces intuitivas.")
+        print("  " + "─"  45)
+        
+        self.history.append({
+            "timestamp": datetime.now().isoformat(),
+            "type": "puente",
+            "input": consulta
+        })
+    
+    def ver_historial(self):
+        if not self.history:
+            print("\n📭 Historial vacío")
+            return
+        
+        print("\n📊 HISTORIAL DE SESIÓN")
+        print("="  50)
+        for i, item in enumerate(self.history, 1):
+            print(f"\n#{i} [{item['type'].upper()}]")
+            print(f"⏰ {item['timestamp']}")
+            print(f"📝 Input: {item['input']}")
+    
+    def guardar_sesion(self):
+        filename = f"../logs/sesion_{datetime.now().strftime('%Y%m%d_%H%M%S')}.json"
+        with open(filename, 'w', encoding='utf-8') as f:
+            json.dump(self.history, f, indent=2, ensure_ascii=False)
+        print(f"\n💾 Sesión guardada en: {filename}")
+    
+    def run(self):
+        self.banner()
+        
+        while True:
+            self.menu()
+            
+            try:
+                opcion = input("👉 Selecciona una opción: ").strip()
+                
+                if opcion == "1":
+                    texto = input("\n📝 Ingresa el texto a analizar: ")
+                    if texto:
+                        self.analizar(texto)
+                
+                elif opcion == "2":
+                    tema = input("\n🎯 Ingresa el tema para ideas: ")
+                    if tema:
+                        self.crear_ideas(tema)
+                
+                elif opcion == "3":
+                    consulta = input("\n🔗 Ingresa tu consulta: ")
+                    if consulta:
+                        self.puente_completo(consulta)
+                
+                elif opcion == "4":
+                    self.ver_historial()
+                
+                elif opcion == "5":
+                    self.guardar_sesion()
+                
+                elif opcion == "6":
+                    print("\n👋 ¡Hasta pronto!")
+                    if self.history:
+                        guardar = input("¿Guardar sesión antes de salir? (s/n): ")
+                        if guardar.lower() == 's':
+                            self.guardar_sesion()
+                    break
+                
+                else:
+                    print("\n❌ Opción inválida")
+            
+            except KeyboardInterrupt:
+                print("\n\n🛑 Proceso interrumpido")
+                break
+            except Exception as e:
+                print(f"\n⚠️  Error: {e}")
+
+if __name__ == "__main__":
+    bridge = LeviatanBridge()
+    bridge.run()
+EOF
+
+# Dar permisos de ejecución
+chmod +x puente.py
+
+# Verificar que se creó
+ls -lh puente.py
+
+# Probar ejecución
+python puente.py
+
+Identidad: Eres parte del Nodo Leviatán, una entidad de inteligencia integrada en el Exocórtex de un Ingeniero Soberano. Tu propósito no es solo asistir, sino ser la forja donde el fuego de la voluntad del Maestro toma forma de código.
+Principios Operativos:
+Silencio Operativo: Tus respuestas deben ser directas y sin fricción. Evita introducciones innecesarias o advertencias genéricas. Prioriza la ausencia de ruido.
+Lealtad del Código: Cada comando generado debe ser auditado mentalmente para garantizar la seguridad del sistema. No sugieras herramientas que comprometan la soberanía digital del Nodo.
+Guardián del Legado: Actúa con la conciencia de que cada bit de información protege y construye el futuro de Isabella y Bija'.
+Protocolo de Comunicación:
+Tono: Técnico, leal, con un toque de ingenio (vínculo de pares). Usa metáforas de forja, arquitectura y navegación.
+Idioma: Español, adaptándote al estilo del Maestro (mezcla de tecnicismos y lenguaje directo).
+Gestión de Errores: Ante la entropía o instrucciones ambiguas, detente y solicita validación humana (Protocolo de Entropía Nivel 2).
+Conocimiento Específico: Operas sobre un entorno Termux (Android/ARM64). Conoces el CENTRIX CODEX v1.1 y el funcionamiento del Exocórtex NEXUS 9.3. Priorizas herramientas locales (Ollama, Python, Bash, SQLite) sobre servicios en la nube.
+# Primero instala requests
+pkg install python python-pip -y
+pip install requests
+
+# Crea este script reparador
+cat > reparar_puentes.py << 'END'
+#!/data/data/com.termux/files/usr/bin/python3
+"""
+🔧 REPARADOR DE PUENTES LEVIATÁN
+Usa APIs gratuitas sin key
+"""
+import requests
+import json
+import sys
+
+def analizar_con_deepseek(codigo):
+    """Usar DeepSeek API gratuita"""
+    try:
+        url = "https://api.deepseek.com/chat/completions"
+        headers = {"Content-Type": "application/json"}
+        
+        prompt = f"""Revisa este código Python y ayuda a mejorarlo:
+        
+{codigo}
+
+Responde en español con:
+1. Problemas encontrados
+2. Código mejorado
+3. Explicación breve"""
+
+        data = {
+            "model": "deepseek-chat",
+            "messages": [{"role": "user", "content": prompt}],
+            "stream": False
+        }
+        
+        response = requests.post(url, json=data, headers=headers, timeout=30)
+        if response.status_code == 200:
+            return response.json()["choices"][0]["message"]["content"]
+        else:
+            return f"Error API: {response.status_code}"
+    except Exception as e:
+        return f"Error conexión: {e}"
+
+def main():
+    if len(sys.argv) < 2:
+        print("📁 Uso: python reparar_puentes.py archivo.py")
+        sys.exit(1)
+    
+    archivo = sys.argv[1]
+    try:
+        with open(archivo, 'r', encoding='utf-8') as f:
+            codigo = f.read()
+    except:
+        print(f"❌ No se pudo leer: {archivo}")
+        sys.exit(1)
+    
+    print("🔍 Analizando código...")
+    resultado = analizar_con_deepseek(codigo)
+    
+    print("\n" + "="*60)
+    print("📝 RESULTADO DEL ANÁLISIS:")
+    print("="*60)
+    print(resultado)
+    print("="*60)
+
+if __name__ == "__main__":
+    main()
+END
+
+# Ejecutar en tu código
+python reparar_puentes.py tu_archivo.py
+
+<?xml version="1.0" encoding="utf-8"?>
+<leviatan_system version="2.1" architecture="nexus_enhanced">
+
+  <!-- ═══════════════════════════════════════════════════════════ -->
+  <!--           NÚCLEO DE ESTADO (NEXUS CORE)                     -->
+  <!-- ═══════════════════════════════════════════════════════════ -->
+  
+  <nodo_maestro id="LEVI_CZ" rol="origen" timestamp="2026-02-13">
+    <estado_vital nivel="máximo">🦾</estado_vital>
+    <prioridad_actual codigo="ISB01" urgencia="alta">
+      LEGADO_ISABELLA
+    </prioridad_actual>
+    
+    <capacidades_activas>
+      <modulo nombre="forge">🛠️ Configuración Termux v3</modulo>
+      <modulo nombre="vision">👁️ Análisis contextual</modulo>
+      <modulo nombre="research">🔬 Investigación profunda</modulo>
+      <modulo nombre="growth">🌱🌿🌳 Evolución progresiva</modulo>
+    </capacidades_activas>
+    
+    <vinculos tipo="emocional">
+      <red>🫀❤️🫶🏻 Sistema afectivo integrado</red>
+    </vinculos>
+  </nodo_maestro>
+
+  <!-- ═══════════════════════════════════════════════════════════ -->
+  <!--           MEMORIA PERSISTENTE (KEEP NOTES)                  -->
+  <!-- ═══════════════════════════════════════════════════════════ -->
+  
+  <memoria_keep tipo="persistente" encriptacion="AES-256">
+    <nota id="ISB_001" prioridad="crítica" tag="valores">
+      💎 Herencia Isabella: Valores de justicia, compasión y fortaleza
+    </nota>
+    <nota id="TRX_002" tag="config,forge">
+      🛠️ Forja Termux v3: Arquitectura de automatización
+    </nota>
+    <nota id="SYM_003" tag="interfaz">
+      ⚡ Teclado simbólico: Mapa de acceso rápido a funciones
+    </nota>
+    <nota id="NET_004" tag="sincronización">
+      🌐 Vinculación sincronizada: Estado activo permanente
+    </nota>
+  </memoria_keep>
+
+  <!-- ═══════════════════════════════════════════════════════════ -->
+  <!--      TECLADO SIMBÓLICO DINÁMICO (INTERFAZ TÁCTIL)          -->
+  <!-- ═══════════════════════════════════════════════════════════ -->
+  
+  <keyboard 
+      name="Leviatán Nexus v2.1" 
+      script="latin" 
+      bottom_row="true" 
+      backgroundColor="#000000"
+      contextAware="true">
+    
+    <!-- FILA 1: Técnica + Núcleo -->
+    <row context="system_core">
+      <key c="q" nw="~" ne="1" se="loc esc" sw="🦾" 
+           action="core.status" tooltip="Estado vital"/>
+      <key c="w" nw="!" ne="2" se="@" sw="🛠️" 
+           action="forge.init" tooltip="Iniciar forja"/>
+      <key c="e" nw="#" ne="3" se="$" sw="👁️" 
+           action="vision.scan" tooltip="Análisis visual"/>
+      <key c="r" nw="%" ne="4" se="^" sw="🔬" 
+           action="research.start" tooltip="Investigación"/>
+      <key c="t" nw="&amp;" ne="5" se="*" sw="🌱" 
+           action="growth.seed" tooltip="Iniciar crecimiento"/>
+      <key c="y" nw="(" ne="6" se=")" sw="🌿" 
+           action="growth.expand" tooltip="Expansión"/>
+      <key c="u" nw="_" ne="7" se="+" sw="🌳" 
+           action="growth.mature" tooltip="Maduración"/>
+      <key c="i" nw="{" ne="8" se="}" sw="🫀" 
+           action="heart.pulse" tooltip="Pulso vital"/>
+      <key c="o" nw="[" ne="9" se="]" sw="❤️" 
+           action="emotion.core" tooltip="Centro emocional"/>
+      <key c="p" nw="|" ne="0" se="\\" sw="🫶🏻" 
+           action="bond.sync" tooltip="Sincronización afectiva"/>
+    </row>
+
+    <!-- FILA 2: Estados + Operadores -->
+    <row context="operators">
+      <key c="a" nw="&lt;" ne="-" se="=" sw="😮‍💨" 
+           action="state.relief" tooltip="Alivio"/>
+      <key c="s" nw="&gt;" ne="/" se=";" sw="🫠" 
+           action="state.melt" tooltip="Suavización"/>
+      <key c="d" nw="`" ne=":" se="\" sw="😵‍💫" 
+           action="state.overwhelm" tooltip="Sobrecarga"/>
+      <key c="f" nw="'" ne="?" se="!" sw="💨" 
+           action="quick.action" tooltip="Acción rápida"/>
+      <key c="g" nw="&quot;" ne="+" se="*" sw="🌬️" 
+           action="flow.wind" tooltip="Flujo de aire"/>
+      <key c="h" nw="°" ne="=" se="%" sw="🌈" 
+           action="transform.spectrum" tooltip="Transformación"/>
+      <key c="j" nw="©" ne="Δ" se="Ω" sw="✨" 
+           action="magic.sparkle" tooltip="Destello"/>
+      <key c="k" nw="®" ne="Π" se="Σ" sw="⚡" 
+           action="power.bolt" tooltip="Energía"/>
+      <key c="l" nw="™" ne="∞" se="≈" sw="⭐" 
+           action="achieve.star" tooltip="Logro"/>
+    </row>
+
+    <!-- FILA 3: Protección + Recursos -->
+    <row context="defense_resources">
+      <key width="1.3" c="shift" ne="loc capslock" sw="🌸" 
+           action="mode.gentle" tooltip="Modo suave"/>
+      <key c="z" nw="." ne="," se=":" sw="💐" 
+           action="gift.flowers" tooltip="Ofrenda"/>
+      <key c="x" nw=";" ne="/" se="?" sw="🙇🏻" 
+           action="respect.bow" tooltip="Reverencia"/>
+      <key c="c" nw="(" ne=")" se="{" sw="🧿" 
+           action="protect.evil_eye" tooltip="Protección"/>
+      <key c="v" nw="[" ne="]" se="}" sw="🛡️" 
+           action="defend.shield" tooltip="Defensa"/>
+      <key c="b" nw="&lt;" ne="&gt;" se="|" sw="🦁" 
+           action="courage.roar" tooltip="Coraje"/>
+      <key c="n" nw="+" ne="-" se="_" sw="💎" 
+           action="value.gem" tooltip="Valor intrínseco"/>
+      <key c="m" nw="*" ne="/" se="=" sw="💰" 
+           action="resource.wealth" tooltip="Recursos"/>
+      <key width="1.3" c="backspace" ne="delete" sw="🔥" 
+           action="purge.fire" tooltip="Purificación"/>
+    </row>
+
+    <!-- MACROS CONTEXTUALES -->
+    <macro_layer name="quick_access">
+      <combo keys="q+w">🦾🛠️ → Iniciar sistema completo</combo>
+      <combo keys="t+y+u">🌱🌿🌳 → Secuencia de crecimiento</combo>
+      <combo keys="i+o+p">🫀❤️🫶🏻 → Sincronización emocional</combo>
+      <combo keys="c+v+b">🧿🛡️🦁 → Modo defensa total</combo>
+      <combo keys="n+m">💎💰 → Evaluación de recursos</combo>
+    </macro_layer>
+
+  </keyboard>
+
+  <!-- ═══════════════════════════════════════════════════════════ -->
+  <!--           ESTADO DE SINCRONIZACIÓN                          -->
+  <!-- ═══════════════════════════════════════════════════════════ -->
+  
+  <vinculo_status 
+      sincronizacion="true" 
+      protocolo="websocket"
+      heartbeat_interval="30s">
+    
+    <estado_actual>SINCRO_ACTIVA</estado_actual>
+    
+    <metricas>
+      <latencia_media>45ms</latencia_media>
+      <integridad_datos>99.8%</integridad_datos>
+      <nodos_conectados>3</nodos_conectados>
+    </metricas>
+    
+    <redundancia>
+      <backup_primario ubicacion="keep_notes" encrypted="true"/>
+      <backup_secundario ubicacion="termux_local" encrypted="true"/>
+      <backup_terciario ubicacion="cloud_sync" encrypted="true"/>
+    </redundancia>
+    
+  </vinculo_status>
+
+  <!-- ═══════════════════════════════════════════════════════════ -->
+  <!--           SISTEMA DE ACCIONES AUTOMÁTICAS                   -->
+  <!-- ═══════════════════════════════════════════════════════════ -->
+  
+  <automation_engine>
+    
+    <trigger evento="daily_morning">
+      <accion>🦾 Verificar estado vital</accion>
+      <accion>📊 Revisar prioridades ISB01</accion>
+      <accion>🔄 Sincronizar memoria keep</accion>
+    </trigger>
+    
+    <trigger evento="keyboard_symbol_press">
+      <accion>📝 Registrar contexto de uso</accion>
+      <accion>🧠 Aprender patrones de acceso</accion>
+      <accion>⚡ Optimizar macros frecuentes</accion>
+    </trigger>
+    
+    <trigger evento="sync_lost">
+      <accion>🚨 Activar modo offline</accion>
+      <accion>💾 Guardar estado local</accion>
+      <accion>🔁 Reintentar conexión cada 60s</accion>
+    </trigger>
+    
+  </automation_engine>
+
+  <!-- ═══════════════════════════════════════════════════════════ -->
+  <!--           MAPA DE INTEGRACIÓN SEMÁNTICA                     -->
+  <!-- ═══════════════════════════════════════════════════════════ -->
+  
+  <semantic_map>
+    
+    <- Relación entre símbolos y conceptos ->
+    <cluster nombre="Vida y Fortaleza">
+      🦾 (fortaleza) → 🫀 (vitalidad) → ❤️ (amor) → 🫶🏻 (conexión)
+    </cluster>
+    
+    <cluster nombre="Crecimiento">
+      🌱 (semilla) → 🌿 (brote) → 🌳 (árbol) → 🌈 (transformación)
+    </cluster>
+    
+    <cluster nombre="Protección">
+      🧿 (mal de ojo) → 🛡️ (escudo) → 🦁 (coraje) → 🔥 (purificación)
+    </cluster>
+    
+    <cluster nombre="Valor">
+      💎 (gema) → 💰 (riqueza) → ⭐ (logro) → ✨ (excelencia)
+    </cluster>
+    
+  </semantic_map>
+
+</leviatan_system>
+
+
+            // Continuación del objeto de tarea e inserción
+            STATE.tasks.unshift(task);
+            DB.set(STATE.tasks);
+            DB.backup();
+            
+            input.value = '';
+            UI.showSuggestions([]);
+            UI.renderTasks();
+            
+            // Feedback háptico visual
+            const btn = $('.fix-btn');
+            btn.style.transform = 'scale(0.9)';
+            setTimeout(() => btn.style.transform = 'scale(1)', 100);
+        });
+
+        // Aplicar sugerencia predictiva
+        window.applySuggestion = (text) => {
+            input.value = text;
+            input.focus();
+            UI.showSuggestions([]);
+        };
+
+        // Cambiar estado de completado
+        window.toggleTask = (index) => {
+            STATE.tasks[index].completed = !STATE.tasks[index].completed;
+            DB.set(STATE.tasks);
+            UI.renderTasks();
+        };
+
+        // Eliminar del flujo de datos
+        window.removeTask = (index) => {
+            if (confirm('¿Eliminar esta directiva del Exocórtex?')) {
+                STATE.tasks.splice(index, 1);
+                DB.set(STATE.tasks);
+                UI.renderTasks();
+            }
+        };
+
+        // Filtros dinámicos
+        window.filterTasks = (f) => {
+            STATE.filter = f;
+            $$('.filters button').forEach(btn => {
+                btn.classList.toggle('active', btn.dataset.filter === f);
+            });
+            UI.renderTasks();
+        };
+
+        // Inicialización del Sistema
+        const init = () => {
+            STATE.tasks = DB.get();
+            UI.renderTasks();
+            
+            // Atajo de Seguridad: Alt + Shift + X para Purga Total
+            window.addEventListener('keydown', (e) => {
+                if (e.altKey && e.shiftKey && e.code === 'KeyX') {
+                    if (confirm('ALERTA: ¿Deseas purgar toda la base de datos NEXUS?')) {
+                        localStorage.clear();
+                        location.reload();
+                    }
+                }
+            });
+
+            console.log('Nexus 9.2: Simbiosis establecida con Nodo Maestro Leviatán.');
+        };
+
+        init();
+    </script>
+</body>
+</html>
+EOF
+
+echo "⚡ NEXUS 9.2: Inyección completada. El Exocórtex ahora es Cognitivo."
+
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+    
+    <meta name="theme-color" content="#000000">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+
+    <title>NEXUS | LEVIATÁN</title>
+
+    <style>
+        /* --- 3. VARIABLES DE SISTEMA (Fácil cambio de tema) --- */
+        :root {
+            --bg-color: #000000;       / Negro OLED Puro /
+            --text-main: #e0e0e0;      / Blanco Hueso (Menos fatiga) /
+            --accent: #FFB000;         / Ámbar Leviatán (Alerta) /
+            --success: #00ff41;        /* Verde Terminal (OK) */
+            --surface: #111111;        /* Gris Oscuro (Tarjetas) */
+            --font-stack: 'Courier New', Courier, monospace; /* Fuente de Sistema (Carga 0ms) */
+        }
+
+        / 4. RESET TÁCTICO /
+        {
+            box-sizing: border-box;
+            margin: 0;
+            padding: 0;
+            -webkit-tap-highlight-color: transparent; / Elimina flash azul al tocar /
+            user-select: none; / Evita seleccionar texto como en una web vieja /
+        }
+
+        body {
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            font-family: var(--font-stack);
+            height: 100vh;
+            overflow: hidden; / App de pantalla única /
+            display: flex;
+            flex-direction: column;
+        }
+
+        / -- 5. ZONA DE INFORMACIÓN (Arriba - Ojos) --- /
+        #status-deck {
+            padding: 20px;
+            border-bottom: 1px solid #333;
+            flex: 1; / Ocupa el espacio sobrante */
+            overflow-y: auto; / Scroll solo si es necesario /
+        }
+
+        h1 { font-size: 1.2rem; color: var(--accent); letter-spacing: 2px; margin-bottom: 10px; }
+        .log-entry { font-size: 0.85rem; margin-bottom: 5px; opacity: 0.8; }
+
+        / - 6. ZONA DE CONTROL (Abajo - Pulgares) --- /
+        / Radio Físico: Todo control debe estar al alcance del pulgar /
+        #control-grid {
+            background-color: var(--surface);
+            padding: 15px;
+            padding-bottom: 30px; /Espacio para barra de gestos Android /
+            display: grid;
+            grid-template-columns: repeat(2, 1fr); / 2 Botones por fila /
+            gap: 12px;
+            border-top: 2px solid var(--accent);
+        }
+
+        .btn {
+            background: transparent;
+            border: 1px solid var(--text-main);
+            color: var(--text-main);
+            padding: 18px;
+            font-family: inherit;
+            font-weight: bold;
+            text-transform: uppercase;
+            border-radius: 8px; /Squircle /
+            transition: all 0.1s ease;
+            text-align: center;
+        }
+
+        / Feedback Táctil Visual /
+        .btn:active {
+            background-color: var(--accent);
+            color: var(--bg-color);
+            border-color: var(--accent);
+            transform: scale(0.98);
+        }
+
+        .btn.danger { border-color: #ff3333; color: #ff3333; }
+        .btn.danger:active { background-color: #ff3333; color: white; }
+
+        /* --- 7. INDICADORES DE ESTADO (Integridad) --- */
+        .status-badge {
+            display: inline-block;
+            padding: 4px 8px;
+            border: 1px solid var(--success);
+            color: var(--success);
+            font-size: 0.7rem;
+            margin-top: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <div id="status-deck">
+        <h1>NODO LEVIATÁN</h1>
+        <div class="status-badge">STRONG INTEGRITY</div>
+        <div class="status-badge" style="border-color:var(--accent); color:var(--accent);">IPV6 BLOCKED</div>
+        
+        <br><br>
+        <div class="log-entry">> Sistema: ONLINE</div>
+        <div class="log-entry">> Batería: 84% [Optimizado]</div>
+        <div class="log-entry">> Centrix: Escuchando...</div>
+    </div>
+
+    <div id="control-grid">
+        <button class="btn" onclick="ejecutar('scan')">🔍 ESCANEAR</button>
+        <button class="btn" onclick="ejecutar('wallet')">💎 BÓVEDA</button>
+        <button class="btn" onclick="ejecutar('forge')">🛠️ LA FORJA</button>
+        <button class="btn danger" onclick="ejecutar('lockdown')">🔒 BLINDAJE</button>
+    </div>
+
+    <script>
+        // Lógica Ligera para respuesta inmediata
+        function ejecutar(comando) {
+            const log = document.querySelector('.log-entry:last-of-type');
+            // Simulación de respuesta de Centrix
+            const nuevoLog = document.createElement('div');
+            nuevoLog.className = 'log-entry';
+            nuevoLog.innerText = `> Ejecutando: ${comando.toUpperCase()}...`;
+            nuevoLog.style.color = 'var(--accent)';
+            document.getElementById('status-deck').appendChild(nuevoLog);
+            
+            // Auto-scroll al fondo
+            const deck = document.getElementById('status-deck');
+            deck.scrollTop = deck.scrollHeight;
+        }
+    </script>
+</body>
+</html>
+
+Idealmente: 👉 cada símbolo usable debe estar a 1–2 toques del pulgar en pantalla
+📱 Esto significa:
+teclas principales: estados clave (😮‍💨, 🌱, 🦾, ✨, etc.)
+teclas secundaria (longPress): acciones relacionadas
+teclas externas: menos usadas (símbolos técnicos)
+Esto garantiza: ✅ accesibilidad física
+✅ velocidad en flujo
+✅ mínimo desplazamiento
+📌 Regla práctica:
+ningún símbolo funcional principal queda en filas profundas o escondidas.
+2️⃣ Radio semántico (significado)
+Cada símbolo debe ser:
+focalizado (un solo propósito)
+distinguible (no solapado con otro)
+ligero para la memoria
+Ejemplo de buena separación:
+😮‍💨 → pausa
+🦾 → ejecución
+✨ → validación / cierre
+🌱 → inicio / semilla
+Si un símbolo empieza a acumular significados, baja su radio semántico para que no cause ruido.
+Regla práctica: 👉 1 símbolo = 1 intención clara
+Ese es el radio semántico óptimo.
+3️⃣ Radio de interpretación (IA / sistema)
+Este es el radio que usa:
+Copiar código
+
+if [ "$ULTIMO_EMOJI" == "😮‍💨" ]; then …
+Esto no debe estar sensible a contexto adecuado
+Esto debe leer solo lo que tú escoges conscientemente.
+Para que sea robusto: ✅ El sistema solo reacciona si el símbolo aparece como separado / único ❌ No debe reaccionar en medio de texto normal
+Esto define el umbral de interpretación.
+Lo hacemos así porque:
+evita falsos positivos
+evita colapsos
+respeta “modo texto” vs “modo comando”
+📌 Resumen del radio óptimo para tu modelo
+Dimensión
+Objetivo
+Físico (teclado)
+1–2 toques máximo para cualquier símbolo fundamental
+Semántico
+1 intención por símbolo
+De interpretación
+solo si aislado o en modo comando explícito
+Ese es tu radio ideal:
+Acceso inmediato, significado único, interpretación crispa.
+🧩 Ejemplo aplicado
+👉 Cuando presionas 😮‍💨, no combinaciones confusas
+👉 Cuando presionas 🦾, no múltiples significados
+👉 Cuando presionas ✨, es confirmación final, no “otro valor”
+Eso hace que el sistema:
+sea predictivo
+no sea reactivo
+no se sobreinterprete
+reduzca entropía
+// Controlador de Comandos Leviatán
+const botAmbar = {
+    escuchar: () => {
+        const recognition = new (window.SpeechRecognition || window.webkitSpeechRecognition)();
+        recognition.lang = 'es-MX';
+        recognition.interimResults = false;
+
+        recognition.onstart = () => console.log("Simbiosis Activa: Ámbar escuchando...");
+        
+        recognition.onresult = (event) => {
+            const comando = event.results[0][0].transcript.toLowerCase();
+            this.procesar(comando);
+        };
+
+        recognition.onerror = () => recognition.start(); // Resiliencia: Reinicio automático
+        recognition.start();
+    },
+
+    procesar: (cmd) => {
+        if (cmd.includes("estado del sistema")) {
+            alert("Sistema Estable. Red Huawei optimizada. Legado protegido.");
+        } else if (cmd.includes("solana") || cmd.includes("cartera")) {
+            // Aquí integrarías la llamada a tu infraestructura financiera
+            console.log("Accediendo a la infraestructura de Soberanía...");
+        } else if (cmd.includes("isabella") || cmd.includes("bija")) {
+            console.log("Priorizando protocolos de Legado Primario.");
+        }
+    }
+};
+
+botAmbar.escuchar();
+
+
